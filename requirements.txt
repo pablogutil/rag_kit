@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+langchain
+unstructured
+qdrant-client
+faiss-cpu
+pydantic
+python-dotenv
+pdfminer.six
